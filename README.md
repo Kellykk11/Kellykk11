@@ -5,7 +5,7 @@
 - 👩‍💻 Alongside my academic pursuits, I've been dedicating time to earning multiple professional certifications and engaging in personal projects.
  
 - 💻 I have proficiency in various programming languages such as Java, JavaScript, Python, Go, and Kotlin.
-- ✨ I'm also well-versed with Cloud Platforms like AWS and GCP and have substantial experience with databases (both SQL and NoSQL) and open-source technologies, including Elasticsearch, React, and NodeJS.
+- ✨ I'm also well-versed with Cloud Platforms like AWS and GCP and have substantial experience with databases (both SQL and NoSQL) and open-source technologies, including Elasticsearch, React, and NodeJS.Being a driven woman deeply passionate about technology, I'm confident that my hands-on experience, expansive knowledge, enthusiasm, and dedication position me as an ideal candidate for both the SDE internship and full-time roles.
 
 - 📫 Feel free to get in touch with me at lq2218@columbia.edu. I'm excited about the possibility of connecting with you!
   
